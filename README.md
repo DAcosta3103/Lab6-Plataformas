@@ -9,11 +9,14 @@ El archivo `Main.py` en el branch `Enunciado1` resuelve el primer enunciado. Est
 
 ### Funcionalidades
 - Actualiza datos en tiempo real (temperatura, humedad).
+
 - Notifica a los suscriptores cuando los datos se actualizan.
+  
 - Implementa un sistema de suscripción y notificación.
 
 ### Ejemplos de Resultados
 Datos en tiempo real actualizados: {'temperatura': 24.5, 'humedad': 59.7}
+
 Datos en tiempo real actualizados: {'temperatura': 25.2, 'humedad': 60.1}
 
 
@@ -24,13 +27,19 @@ Datos en tiempo real actualizados: {'temperatura': 25.2, 'humedad': 60.1}
 
 ### Funcionalidades
 - Permite al usuario ingresar dos números.
+  
 - Ofrece operaciones matemáticas básicas (+, -, *, /).
+  
 - Maneja excepciones (como división por cero).
+  
 - Terminación del programa con el comando 'exit'.
 
 ### Ejemplos de Resultados
 Ingrese un numero: 5
+
 Ingrese otro numero: 3
+
 Elija una operacion (+, -, *, /): +
+
 Resultado: 8
 
